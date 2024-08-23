@@ -6161,6 +6161,12 @@
       "config_flow": false,
       "iot_class": "local_polling"
     },
+    "thankarezos": {
+      "name": "esp-thermostat",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
+    },
     "thermobeacon": {
       "name": "ThermoBeacon",
       "integration_type": "hub",

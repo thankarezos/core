@@ -1,0 +1,13 @@
+{
+  "domain": "thankarezos",
+  "name": "esp-thermostat",
+  "codeowners": ["@thankarezos"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/thankarezos",
+  "homekit": {},
+  "iot_class": "local_push",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
